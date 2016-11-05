@@ -23,3 +23,8 @@ public static void main(String[] args) {
     }
         public static String Ternar (int number) {
             return (number % 2 == 0) ? "parnoe" : "ne parnoe";
+            
+// ВАРИАНТ 3
+ int a = 5%2;
+        System.out.println(a == 0 ? "parnoe" : "Ne parnoe");
+        
