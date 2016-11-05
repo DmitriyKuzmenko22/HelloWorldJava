@@ -5,7 +5,7 @@ int a = 5%2;
 
 
 int e = (a==0) ? (2) : (1);
-        if (e ==1) {
+        if (e ==0) {
         System.out.println("ne parnoe");
             
         }
